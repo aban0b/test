@@ -1,0 +1,14 @@
+---
+users:
+- name: alice
+  job: developer
+  uid: 1201
+- name: Vincent
+  job: developer
+  uid: 1202
+- name: sandy
+  job: developer
+  uid: 2201
+- name: Patrick
+  job: manager
+  uid: 2202
